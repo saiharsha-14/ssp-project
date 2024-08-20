@@ -201,6 +201,7 @@ The dataset used in this project is the New York City Taxi Fare Prediction datas
 - **avg_fare_by_location.py**: MapReduce job to calculate the average fare by pickup location.
 - **mrjob_visualization.py**: Script to visualize the results using Plotly.
 - **cluster_analysis.py**: Spark job for clustering analysis using KMeans and BisectingKMeans.
+- **ssp_code.ipynb: Jupyter notebook containing the full code and analysis.
 - **README.md**: Project documentation and setup instructions.
 
 ## Usage
