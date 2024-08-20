@@ -1,0 +1,7 @@
+<configuration>
+ <property>
+ <name>mapreduce.jobtracker.address</name>
+ <value>local</value>
+ </property>
+</configuration>
+
